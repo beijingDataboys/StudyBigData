@@ -8,5 +8,5 @@
 
 ![image](https://github.com/beijingDataboys/StudyBigData/blob/master/image/Snipaste_2023-04-20_21-00-41.png)
 
-然后连接远程仓库，ssh连接注意连接名origin,origin2已被我本地仓库占用，请随意起名，然后拉取代码如图
+然后连接远程仓库，ssh连接git@github.com:beijingDataboys/StudyBigData.git  注意连接名origin,origin2已被我本地仓库占用，请随意起名，然后拉取代码如图
 ![image](https://github.com/beijingDataboys/StudyBigData/blob/master/image/Snipaste_2023-04-20_21-13-23.png)
